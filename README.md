@@ -6,10 +6,10 @@ Newer Vial and QMK versions will need modification to firmware files.
 
 PCB designed with Kicad 6.0.10, using various footprints and symbols with undetermined origin.
 
-AlphaWetPCB is the Kicad PCB files
+AlphaWetPCB/ is the Kicad PCB files
 
-WilliamPlate is the Kicad Plate files
+WilliamPlate/ is the Kicad Plate files
 
-william Plate.dxf is the plate outline for laser cutting
+"William Plate.dxf" is the plate outline for laser cutting
 
-alphawilly contains Vial and QMK firmware source
+alphawilly/ contains Vial and QMK firmware source
