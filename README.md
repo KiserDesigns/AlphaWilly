@@ -14,6 +14,7 @@ WilliamPlate/ is the Kicad Plate files
 
 alphawilly/ contains Vial and QMK firmware source
 
+.uf2 file is the default firmware to flash.
 
 
 GPL 3.0 License
