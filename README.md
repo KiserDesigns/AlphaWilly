@@ -13,3 +13,7 @@ WilliamPlate/ is the Kicad Plate files
 "William Plate.dxf" is the plate outline for laser cutting
 
 alphawilly/ contains Vial and QMK firmware source
+
+
+
+GPL 3.0 License
